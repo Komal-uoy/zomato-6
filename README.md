@@ -24,7 +24,8 @@ If you'd like to contribute to this project, follow these steps:
 - User-Friendly Design: Intuitive and visually appealing user interface for a seamless browsing experience.
 - Responsive Layout: The application is designed to work well on various devices, including desktops, tablets, and mobile phones.
 
-## Screenshort
+## Screenshorts
 ![zoma](https://github.com/Komal-uoy/zomato-6/assets/141421732/479de4ca-7285-4d98-964d-1621199cab70)
 
+![zoma-2](https://github.com/Komal-uoy/zomato-6/assets/141421732/69408832-eeaf-428a-a9c4-e2763c10933d)
 
