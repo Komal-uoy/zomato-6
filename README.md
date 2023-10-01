@@ -23,3 +23,6 @@ If you'd like to contribute to this project, follow these steps:
 - Cuisine Categories: Discover different types of cuisine offerings in Bangalore, including Indian, Chinese, Italian, and more.
 - User-Friendly Design: Intuitive and visually appealing user interface for a seamless browsing experience.
 - Responsive Layout: The application is designed to work well on various devices, including desktops, tablets, and mobile phones.
+
+## Screenshort
+![zomato](https://github.com/Komal-uoy/zomato-6/assets/141421732/51051e39-2bf0-4ea6-bb4e-08324ce3e3ed)
